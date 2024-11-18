@@ -1,0 +1,1 @@
+crie uma pagina no local do arquivo e coloque assets como nome, dentro dessa pasta coloque as imagens e o arquivo com nome styles, após isso crie outra pasta dentro da pasta assets e coloque o nome img, e então coloque todas as imagens (4) dentro do arquivo img.
